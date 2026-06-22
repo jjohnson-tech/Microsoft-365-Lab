@@ -1,4 +1,4 @@
- 01 - User Lifecycle Management
+ ## 01 - User Lifecycle Management
 
 User lifecycle management covers the full process of creating a user account when someone joins the organization and properly offboarding them when they leave. In Microsoft 365 this is handled through the Admin Center and includes license assignment, account configuration, and access revocation. These are among the most common tasks performed by helpdesk and IT support teams on a daily basis.
 
