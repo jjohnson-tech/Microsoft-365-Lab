@@ -66,23 +66,23 @@ Using a Microsoft 365 Business trial tenant, this lab covers two areas of M365 �
 
 | # | Section | Description |
 |---|---|---|
-| 01 | [User Lifecycle Management](01-user-lifecycle-management/README.md) | Created and offboarded a user — license assignment, sign-in block, and account deactivation |
-| 02 | [Password Reset](02-password-reset/README.md) | Reset a user password with forced change on first sign-in |
-| 03 | [Security Groups](03-security-groups/README.md) | Created an IT Help Desk security group and added a user as a member |
-| 04 | [MFA Enablement](mfa-enablement/README.md) | Enabled multi-factor authentication for a user via Entra ID |
-| 05 | [Shared Mailbox](05-shared-mailbox/README.md) | Created a Help Desk shared mailbox for the IT team |
-| 06 | [Distribution List](06-distribution-list/README.md) | Created an All Staff distribution list and added members |
-| 07 | [Teams Provisioning](07-teams-provisioning/README.md) | Provisioned a private IT Help Desk Teams workspace |
+| 01 | [User Lifecycle Management](01-User-Lifecycle-Management/README.md) | Created and offboarded a user — license assignment, sign-in block, and account deactivation |
+| 02 | [Password Reset](02-Password-Reset/README.md) | Reset a user password with forced change on first sign-in |
+| 03 | [Security Groups](03-Security-Groups/README.md) | Created an IT Help Desk security group and added a user as a member |
+| 04 | [MFA Enablement](MFA-Enablement/README.md) | Enabled multi-factor authentication for a user via Entra ID |
+| 05 | [Shared Mailbox](05-Shared-Mailbox/README.md) | Created a Help Desk shared mailbox for the IT team |
+| 06 | [Distribution List](06-Distribution-List/README.md) | Created an All Staff distribution list and added members |
+| 07 | [Teams Provisioning](07-Teams-Provisioning/README.md) | Provisioned a private IT Help Desk Teams workspace |
 
 ### Part 2 — M365 Applications
 
 | # | Section | Description |
 |---|---|---|
-| 08 | [Outlook Auto Reply](08-outlook-auto-reply/README.md) | Configured automatic reply with custom message and scheduled time range |
-| 09 | [Outlook Mail Rules](09-outlook-mail-rules/README.md) | Created a mail rule to auto-route emails to a designated folder |
-| 10 | [SharePoint Team Site](10-sharepoint-team-site/README.md) | Created a private IT Help Desk SharePoint team site |
-| 11 | [SharePoint Document Library](11-sharepoint-document-library/README.md) | Created a Help Desk Resources folder in the document library |
-| 12 | [Teams Channel Management](12-teams-channel-management/README.md) | Created a Ticket Escalations channel in the IT Help Desk Teams workspace |
+| 08 | [Outlook Auto Reply](08-Outlook-Auto-Reply/README.md) | Configured automatic reply with custom message and scheduled time range |
+| 09 | [Outlook Mail Rules](09-Outlook-Mail-Rules/README.md) | Created a mail rule to auto-route emails to a designated folder |
+| 10 | [SharePoint Team Site](10-Sharepoint-Team-Site/README.md) | Created a private IT Help Desk SharePoint team site |
+| 11 | [SharePoint Document Library](11-Sharepoint-Document-Library/README.md) | Created a Help Desk Resources folder in the document library |
+| 12 | [Teams Channel Management](12-Teams-Channel-Management/README.md) | Created a Ticket Escalations channel in the IT Help Desk Teams workspace |
 
 ---
 
